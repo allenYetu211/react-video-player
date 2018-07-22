@@ -1,0 +1,23 @@
+.gl__container {
+
+}
+
+.gl__container--title {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.gl__container--title h2 {
+  font-size: 36px;
+  color: #333;
+}
+
+.gl__container--title p {
+  font-size: 24px;
+  color: #666;
+}
+
+.gl__container .gl__container--content {
+  width: 980px;
+  margin: 0 auto;
+}
