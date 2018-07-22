@@ -29,3 +29,4 @@ class Example extends React.Component {
 ## License
 
 MIT © [Allen](https://github.com/Allen)
+# react-video-player
